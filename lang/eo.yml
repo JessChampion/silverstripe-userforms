@@ -58,7 +58,6 @@ eo:
     DEFAULTTOTODAY: 'Ĉu apriorie hodiaŭ?'
     DELETE: Forigi
     DISPLAYIF: 'Baskuligi videblecon kiam'
-    DISPLAY_RULES_DISABLED: 'Vidigaj reguloj ne estas enŝaltitaj por bezonataj kampoj. Por reaktivigi ĝin, bonvolu malmarki "Ĉu ĉi tiu kampo estas bezonata?" sub "Validigo".'
     DRAG: 'Ŝovi por rearanĝi kampojn'
     ENTERQUESTION: 'Enigi demandon'
     EXTRACLASSA: 'Ekstra stilado/aranĝado'
@@ -183,8 +182,6 @@ eo:
     RANGE_TO: al
     SINGULARNAME: 'Teksta kampo'
     TEXTLENGTH: 'Permesata longo de teksto'
-  SilverStripe\UserForms\Model\EditableFormField\Validator:
-    REQUIRED_ERROR: 'Formularaj kampoj ne povas esti nepraj kaj havi kondiĉajn vidigoregulojn.'
   SilverStripe\UserForms\Model\Recipient\EmailRecipient:
     CUSTOMRULESTAB: 'Propraj reguloj'
     EMAILADDRESSINVALID: '"EmailAddress" ne estas valida'

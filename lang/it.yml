@@ -57,7 +57,6 @@ it:
     DEFAULT: 'Valore di default'
     DEFAULTTOTODAY: 'Di default a oggi?'
     DELETE: Elimina
-    DISPLAY_RULES_DISABLED: 'Le regole di visualizzazione non sono attivate per i campi richiesti. Per piacere deseleziona "Questo campo è obbligatorio?" sotto "Validazione" per riabilitarle.'
     DRAG: 'Trascina per riordinare l''ordine dei campi'
     ENTERQUESTION: 'Inserisci la domanda'
     EXTRACLASSA: 'Stile/Layout extra'
@@ -174,8 +173,6 @@ it:
     RANGE_TO: a
     SINGULARNAME: 'Campo testo'
     TEXTLENGTH: 'Lunghezza testo consentita'
-  SilverStripe\UserForms\Model\EditableFormField\Validator:
-    REQUIRED_ERROR: 'I campi dei form non possono essere obbligatori e avere regole di visualizzazione condizionali.'
   SilverStripe\UserForms\Model\Recipient\EmailRecipient:
     CUSTOMRULESTAB: 'Regole personalizzate'
     EMAILCONTENTTAB: 'Contenuto dell''e-mail'
